@@ -1,3 +1,6 @@
+# Private message to C2H6
+Would you please contact me at ethan.arnold@telekom.de? Thank you!
+
 # SLAM
 
 Implementation of algorithms for SLAM: EKF, EIF and SEIF.
